@@ -73,7 +73,7 @@ function nextPart() {
     }
 }
 function back() {
-    window.location.href = 'index3.html';
+    window.location.href = 'index.html';
 }
 
 
